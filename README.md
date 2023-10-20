@@ -32,7 +32,7 @@ Ping Tester is a Python script that allows you to simulate a ping operation and 
 
 
 
-#Author
+##### Author
  **Samson Tesfaye**
-# GitHub: 
+##### GitHub: 
  **mrsamiofficial9**
