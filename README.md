@@ -34,8 +34,5 @@ Ping Tester is a Python script that allows you to simulate a ping operation and 
 
 #Author
  **Samson Tesfaye**
-#GitHub: **mrsamiofficial9**
-Acknowledgments
-ping3 for ICMP ping functionality.
-colorama for text colorization.
-pyfiglet for creating the ASCII art banner.
+# GitHub: 
+ **mrsamiofficial9**
