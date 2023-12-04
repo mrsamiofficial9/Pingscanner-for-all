@@ -22,7 +22,7 @@ Ping Tester is a Python script that allows you to simulate a ping operation and 
 3. Run
    ```shell
    python main.py
-
+   ```
 
 
 
